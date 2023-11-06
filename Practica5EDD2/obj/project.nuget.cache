@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJgPt5PMY4SgIj27ICpVCz9AvdGsKehfpYyF+MoYLMZj3gwJf+DcyevbtytcBYLnoCdzcQD5Zq/6JryQ7LS4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rolando Ziller\\Documents\\Universidad\\2023\\segundo ciclo\\edd2\\Practica5EDD2\\Practica5EDD2\\Practica5EDD2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rolando Ziller\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

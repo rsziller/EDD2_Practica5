@@ -1,0 +1,17 @@
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Practica5EDD2.exe
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Practica5EDD2.deps.json
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Practica5EDD2.runtimeconfig.json
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Practica5EDD2.dll
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Practica5EDD2.pdb
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.csproj.AssemblyReference.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.AssemblyInfoInputs.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.AssemblyInfo.cs
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.csproj.CoreCompileInputs.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.csproj.CopyComplete
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.dll
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\refint\Practica5EDD2.dll
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.pdb
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\Practica5EDD2.genruntimeconfig.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2023\segundo ciclo\edd2\Practica5EDD2\Practica5EDD2\obj\Debug\net6.0\ref\Practica5EDD2.dll
